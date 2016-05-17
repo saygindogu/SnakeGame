@@ -1,4 +1,4 @@
-# SnakeGame
+#SnakeGame
 
 Snake Game is an AI Project.
 
